@@ -1,0 +1,11 @@
+# Archivos de compilación de Java
+/out/
+*.class
+
+# Configuración específica de IntelliJ IDEA
+.idea/
+*.iml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
