@@ -24,4 +24,4 @@ El proyecto está organizado siguiendo los bloques temáticos del curso:
 Cada carpeta dentro de `src` corresponde a una sección del curso. Puedes ejecutar las clases `Main` de cada paquete para ver los ejemplos en funcionamiento por consola.
 
 ---
-*Notas personales: Proyecto realizado para asentar las bases de Java antes de pasar a frameworks como Spring o desarrollo de interfaces.*
+*Notas personales: Proyecto realizado para asentar las bases de Java antes de pasar a frameworks como Spring o desarrollo de interfaces. (me falta por hacer los ejercicios)*
